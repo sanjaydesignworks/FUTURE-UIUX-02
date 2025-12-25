@@ -63,3 +63,6 @@ Figma (UI Design & Prototyping)
 Auto Layout
 Grid-based alignment system
 Freepik - for images
+
+Figma File Link : https://www.figma.com/design/aKx6KeHNPbGTcxi19ZE8va/Task-2-Future-Interns?t=4oiRZfky23Penkd9-1
+Prototype link : https://www.figma.com/proto/aKx6KeHNPbGTcxi19ZE8va/Task-2-Future-Interns?t=4oiRZfky23Penkd9-1
